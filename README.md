@@ -1,13 +1,13 @@
 # TicketSystem
 //给定Ticket类：
 class Ticket{
-  long tid;   //车票编号
-  String passenger;   //乘客姓名
-  int route;    //列车车次
-  int coach;    //车厢号
-  int seat;   //座位号
-  int departure;    //出发站编号
-  int arrival;    //到达站编号
+  long tid;   /*车票编号*/
+  String passenger;   /*乘客姓名*/
+  int route;    /*列车车次*/
+  int coach;    /*车厢号*/
+  int seat;   /*座位号*/
+  int departure;    /*出发站编号*/
+  int arrival;    /*到达站编号*/
 }
 
 //给定TicketingSystem接口：
